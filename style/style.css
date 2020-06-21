@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    background-color: brown;
+    padding: 10px 10px;
+    border-radius: 8px;
+}
+
+span{
+    color: white;
+}
